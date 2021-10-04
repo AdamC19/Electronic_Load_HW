@@ -1,5 +1,5 @@
 # Electronic_Load_HW
-Hardware source files for my multi-channel electronic load.
+Hardware source files for my multi-channel electronic load. Read more about this device [here](http://acordingley.us/electronic-load/).
 ## Electronic_Load_Controller/
 Files for the controller, of which there should be 1 per electronic load.
 ## Electronic_Load_Module/
