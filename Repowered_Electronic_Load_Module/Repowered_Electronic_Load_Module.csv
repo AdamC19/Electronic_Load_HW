@@ -1,0 +1,17 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C2 C1 C8 C3 ,4,0.1u,Capacitor_SMD:C_0603_1608Metric,~
+C4 C7 ,2,4.7u,Capacitor_SMD:C_0805_2012Metric,~
+C5 C6 ,2,4700p,Capacitor_SMD:C_0603_1608Metric,~
+FB1 ,1,120@100MHz,Inductor_SMD:L_0805_2012Metric,~
+J1 J3 ,2,Screw_Terminal_01x01,MountingHole:MountingHole_4.3mm_M4_Pad_Via,~
+J2 ,1,Conn_01x05_Male,"Connector_Phoenix_MC:PhoenixContact_MC_1,5_5-G-3.5_1x05_P3.50mm_Horizontal",~
+NT1 ,1,Net-Tie_2,NetTie:NetTie-2_SMD_Pad0.5mm,~
+Q1 ,1,IRFP27N60KPBF,Package_TO_SOT_THT:TO-247-3_Vertical,~
+R2 R1 ,2,2.2k,Resistor_SMD:R_0805_2012Metric,~
+R4 R3 R8 R5 ,4,1k,Resistor_SMD:R_0805_2012Metric,~
+R6 R9 ,2,0.01,Resistor_SMD:R_2512_6332Metric,~
+R7 ,1,33k,Resistor_SMD:R_0805_2012Metric,~
+U1 ,1,DAC101C081CIMK,Package_TO_SOT_SMD:SOT-23-6,http://www.ti.com/lit/ds/symlink/dac101c081.pdf
+U2 ,1,TLV9151IDBVR,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/tlv2375.pdf
+U3 ,1,OPA330xxDBV,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/opa330.pdf
+U4 ,1,LP2985-3.3,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/lp2985.pdf

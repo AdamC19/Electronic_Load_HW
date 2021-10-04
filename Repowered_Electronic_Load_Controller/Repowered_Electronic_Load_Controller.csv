@@ -1,0 +1,20 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C10 C8 C11 ,3,0.01u,Capacitor_SMD:C_0603_1608Metric,~
+C2 C1 C6 C7 C9 C3 ,6,0.1u,Capacitor_SMD:C_0603_1608Metric,~
+C5 C4 ,2,4.7u,Capacitor_SMD:C_0805_2012Metric,~
+D1 D2 ,2,MBR0540,Diode_SMD:D_SOD-123,~
+D3 ,1,IN-S63BT5B,LED_SMD:LED_0603_1608Metric,~
+H1 H2 H3 H4 H5 ,5,MountingHole_Pad,MountingHole:MountingHole_2.5mm_Pad,~
+J1 ,1,Conn_01x02_Male,"Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal",~
+J2 J5 J8 J9 J10 J11 J13 J12 ,8,1844249,"Connector_Phoenix_MC:PhoenixContact_MC_1,5_5-G-3.5_1x05_P3.50mm_Horizontal",~
+J3 J4 ,2,Conn_01x04_Male,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,~
+J6 ,1,USB_B_Micro,Connector_USB:USB_Micro-B_Molex-105017-0001,~
+J7 ,1,1844210,"Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.5_1x02_P3.50mm_Horizontal",~
+R2 R1 R5 ,3,1.5k,Resistor_SMD:R_0805_2012Metric,~
+R3 ,1,100k,Resistor_SMD:R_0805_2012Metric,~
+R4 ,1,6.8k,Resistor_SMD:R_0805_2012Metric,~
+R6 R7 ,2,4.7k,Resistor_SMD:R_0805_2012Metric,~
+R8 ,1,100,Resistor_SMD:R_0805_2012Metric,~
+U1 ,1,LP2985-3.3,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/lp2985.pdf
+U2 U4 U5 ,3,74HC4051,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf
+U3 ,1,STM32L432KCUx,Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00257205.pdf
